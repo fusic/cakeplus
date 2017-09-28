@@ -95,7 +95,7 @@ class ValidationErrorI18nBehavior extends ModelBehavior {
 		$default_error_messages = array(
 			'require' 	=> 'Please be sure to input.',
 			'email_invalid' => __('Invalid Email address.',true),
-			'between' => __('Between %2$d and %3$d characters.',true),
+			// 'between' => __('Between %2$d and %3$d characters.',true),
 		);
 
 		return $default_error_messages;
