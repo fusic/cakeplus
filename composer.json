@@ -1,0 +1,27 @@
+{
+    "name": "fusic/cakeplus",
+    "description": "[forked from ichikaway/cakeplus]Cake plus is cakephp plugin and provides some functions for CakePHP.",
+    "type": "cakephp-plugin",
+    "keywords": ["cakephp", "validation"],
+    "homepage": "https://fusic.co.jp/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yasushi Ichikawa",
+            "homepage": "http://twitter.com/ichikaway",
+            "role": "Author"
+        },
+        {
+            "name": "Various Others",
+            "homepage": "https://github.com/ichikaway/cakeplus/graphs/contributors"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/ichikaway/cakeplus/issues",
+        "source": "https://github.com/ichikaway/cakeplus"
+    },
+    "require": {
+        "php": ">=5.3.0",
+        "composer/installers": "*"
+    }
+}
