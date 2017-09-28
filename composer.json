@@ -1,9 +1,9 @@
 {
-    "name": "ichikaway/cakeplus",
-    "description": "Cake plus is cakephp plugin and provides some functions for CakePHP.",
+    "name": "fusic/cakeplus",
+    "description": "[forked from ichikaway/cakeplus]Cake plus is cakephp plugin and provides some functions for CakePHP.",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "validation"],
-    "homepage": "https://github.com/ichikaway/cakeplus",
+    "homepage": "https://fusic.co.jp/",
     "license": "MIT",
     "authors": [
         {
